@@ -4,7 +4,7 @@
 
 Objeto:
 
-O objetivo é estudo da aplicação **eShopOnWeb** para ter como base de conhecimento para o projeto **Tech Challange FIAP.**
+O objetivo é estudar aplicação **eShopOnWeb** da microsoft para ter como base de conhecimento e aplicar no projeto **Tech Challange FIAP.**
 
 ## Desenvolvimeto de Backend com AspNet Core
 
