@@ -6,5 +6,5 @@ Objeto:
 
 O objetivo é criar uma aplicação web que seja possível escalavel para nuvem, aplicando conceitos de arquitetura.
 
-- Aplicação referência [eShopOnWeb](/dotnet/architecture/modern-web-apps-azure/)
+- Aplicação referência [eShopOnWeb](https://learn.microsoft.com/pt-br/dotnet/architecture/modern-web-apps-azure/)
 - Código do projeto atravês do [GitHub](https://github.com/dotnet-architecture/eShopOnWeb)
