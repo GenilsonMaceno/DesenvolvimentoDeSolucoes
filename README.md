@@ -34,7 +34,7 @@ Sintáxes usadas pelo **SQL:**
 
 ### Referências:
 
-- [HTTP Documentation](Documentation https://httpwg.org/specs/)  
+- [HTTP Documentation](https://httpwg.org/specs/)  
 - [Criar APIs web com os ASP.NET Core](https://learn.microsoft.com/pt-br/aspnet/core/web-api/?view=aspnetcore-7.0)  
 - [API Development for Everyone](https://swagger.io/)  
 
